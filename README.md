@@ -5,6 +5,13 @@ https://github.com/wangqingbaidu/Dr.Sure
 
 https://github.com/timzhang642/3D-Machine-Learning
 
+# 实验常用CV相关的开源数据集。
+
+## 2D
+https://blog.csdn.net/u014636245/article/details/83269939
+## 3D
+https://blog.csdn.net/u014636245/article/details/83269939
+
 # 下面是几乎目前CV相关的开源数据集的整理。
 
 ## Images Analysis
