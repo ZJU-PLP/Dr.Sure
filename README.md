@@ -193,3 +193,5 @@ Reference:
 https://github.com/wangqingbaidu/Dr.Sure
 
 https://github.com/timzhang642/3D-Machine-Learning
+
+计算机视觉·常用数据集·3D|https://blog.csdn.net/u010189457/article/details/78472498
