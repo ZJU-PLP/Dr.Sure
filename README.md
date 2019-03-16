@@ -1,11 +1,15 @@
-# 实验常用CV相关的开源数据集（需要下载2D以及3D）。
+### Attention!
+常用的数据集见下载部分，所有CV相关的开源数据集见reference，目前先下载比较常用的部分数据集，后续再根据需要进行下载！
+
+
+# 常用CV相关的开源数据集（需要下载2D以及3D）
 
 ## 2D（下载第一部分--图像类）
 https://blog.csdn.net/qq_24305433/article/details/79842247
 ## 3D（全部下载）
 https://blog.csdn.net/u014636245/article/details/83269939
 
-# 下面是几乎目前CV相关的开源数据集的整理。
+# 下面是几乎目前CV相关的开源数据集的整理
 
 ## Images Analysis
 数据集|介绍|备注|网址
@@ -187,7 +191,6 @@ SemEval|文本情感分析|20,632句子，三类（正面、负面、中立）|[
 Sentiment140(STS)|文本情感分析|1,600,000句子,三类（正面、负面、中立）|[链接](https://drive.google.com/uc?id=0B04GJPshIjmPRnZManQwWEdTZjg&export=download)
 
 
-### Attention!
 Reference:
 
 https://github.com/wangqingbaidu/Dr.Sure
