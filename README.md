@@ -1,5 +1,5 @@
 ### Attention!
-我的Dr.Sure项目正式上线了，主旨在分享学习Tensorflow以及DeepLearning中的一些想法。期间随时更新我的论文心得以及想法。
+
 
 Github地址：[https://github.com/wangqingbaidu/Dr.Sure](https://github.com/wangqingbaidu/Dr.Sure)
 
