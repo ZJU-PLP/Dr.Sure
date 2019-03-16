@@ -1,4 +1,4 @@
-# 实验常用CV相关的开源数据集。
+# 实验常用CV相关的开源数据集（需要下载）。
 
 ## 2D
 https://blog.csdn.net/u014636245/article/details/83269939
