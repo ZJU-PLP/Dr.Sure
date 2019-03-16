@@ -1,7 +1,7 @@
 # 实验常用CV相关的开源数据集（需要下载）。
 
-## 2D
-https://blog.csdn.net/u014636245/article/details/83269939
+## 2D（下载第一部分--图像类）
+https://blog.csdn.net/qq_24305433/article/details/79842247
 ## 3D
 https://blog.csdn.net/u014636245/article/details/83269939
 
