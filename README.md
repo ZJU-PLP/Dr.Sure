@@ -2,7 +2,7 @@
 
 ## 2D（下载第一部分--图像类）
 https://blog.csdn.net/qq_24305433/article/details/79842247
-## 3D
+## 3D（全部下载）
 https://blog.csdn.net/u014636245/article/details/83269939
 
 # 下面是几乎目前CV相关的开源数据集的整理。
