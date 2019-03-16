@@ -1,10 +1,3 @@
-### Attention!
-Reference:
-
-https://github.com/wangqingbaidu/Dr.Sure
-
-https://github.com/timzhang642/3D-Machine-Learning
-
 # 实验常用CV相关的开源数据集。
 
 ## 2D
@@ -192,3 +185,11 @@ Yelp|文本情感分析|无|[链接](https://www.yelp.com/dataset/challenge)
 Multi-Domain Sentiment Dataset(Amazon product)|文本情感分析|100,000+句子，正面负面2类或强正面、弱正面、中立、弱负面、强负面5类|[链接](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/)
 SemEval|文本情感分析|20,632句子，三类（正面、负面、中立）|[链接](http://alt.qcri.org/semeval2017/task4/index.php?id=data-and-tools)
 Sentiment140(STS)|文本情感分析|1,600,000句子,三类（正面、负面、中立）|[链接](https://drive.google.com/uc?id=0B04GJPshIjmPRnZManQwWEdTZjg&export=download)
+
+
+### Attention!
+Reference:
+
+https://github.com/wangqingbaidu/Dr.Sure
+
+https://github.com/timzhang642/3D-Machine-Learning
