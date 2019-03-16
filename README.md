@@ -1,5 +1,10 @@
 ### Attention!
 常用的数据集见下载部分，所有CV相关的开源数据集见reference，目前先下载比较常用的部分数据集，后续再根据需要进行下载！
+https://github.com/wangqingbaidu/Dr.Sure
+
+https://github.com/timzhang642/3D-Machine-Learning
+
+计算机视觉·常用数据集·3D https://blog.csdn.net/u010189457/article/details/78472498
 
 
 # 常用CV相关的开源数据集（需要下载2D以及3D）
